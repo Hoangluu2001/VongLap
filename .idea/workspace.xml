@@ -20,8 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fc7db03-7fb5-4653-bdaf-61e2354715d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bangcuuhuong.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lythuyet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luyentapBai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luyentapBai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luyentapBai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luyentapBai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luyentapBai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luyentapBai7.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bangcuuhuong.html" beforeDir="false" afterPath="$PROJECT_DIR$/bangcuuhuong.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/songuyento.html" beforeDir="false" afterPath="$PROJECT_DIR$/songuyento.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +74,8 @@
       <option name="presentableId" value="Default" />
       <updated>1602464977465</updated>
       <workItem from="1602464978579" duration="9286000" />
-      <workItem from="1602484512417" duration="2374000" />
+      <workItem from="1602484512417" duration="9004000" />
+      <workItem from="1602551302417" duration="12655000" />
     </task>
     <servers />
   </component>
@@ -83,6 +92,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1602468605933">
